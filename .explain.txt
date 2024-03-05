@@ -1,2 +1,0 @@
-net.Conn (io.Writer) <- Wrapper (encryption) <- Server
-net.Conn (io.Reader) -> Wrapper (decryption) -> Server
